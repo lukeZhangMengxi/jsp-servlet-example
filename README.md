@@ -17,3 +17,8 @@ mvn clean install jetty:run
 ```
 
 * Browse to [http://localhost:8080/users](http://localhost:8080/users)
+
+<br />
+
+## Tutorials added:
+- simple_cookie from https://www.javatpoint.com/cookies-in-servlet
